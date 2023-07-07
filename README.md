@@ -1,4 +1,4 @@
-# 02-spring-boot-spring-mvc-scurity-default
+# 02-Spring-boot-spring-mvc-scurity-JDBC-HTML-Restricted URL for employees
 
 The project contain some HTML pages with some fancy CSS code but the implementation is executed with thymeleaf.
 The passwords for employees are BCrypted and they are : fun123.
